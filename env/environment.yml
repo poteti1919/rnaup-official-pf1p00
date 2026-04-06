@@ -1,0 +1,17 @@
+name: rna6nt
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pyyaml
+  - pandas
+  - scipy
+  - scikit-learn
+  - viennarna
+prefix: /opt/anaconda3/envs/rna6nt

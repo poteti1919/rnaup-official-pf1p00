@@ -1,0 +1,4 @@
+name: rna6nt
+channels:
+  - defaults
+prefix: /Users/hatanaka/opt/anaconda3/envs/rna6nt

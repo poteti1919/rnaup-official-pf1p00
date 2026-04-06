@@ -1,0 +1,33 @@
+{
+  "official_output_root": "/Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00",
+  "official_command": "/opt/anaconda3/envs/rna6nt/bin/RNAup -u 1-20 -c SHIME -T 37.0 --salt 1.021 -d2 --pfScale 1.0 --log-file=RNAup.log --log-time",
+  "pfScale": 1.0,
+  "temperature_c": 37.0,
+  "salt_m": 1.021,
+  "dangles": 2,
+  "ulength_spec": "1-20",
+  "contribution_spec": "SHIME",
+  "accessibility_mode_only": true,
+  "use_noLP": false,
+  "use_b": false,
+  "use_interaction_pairwise": false,
+  "use_interaction_first": false,
+  "primary_window_len": 6,
+  "rank_z_ulengths": [
+    4,
+    6
+  ],
+  "local_z_radius": 20,
+  "datasets": [
+    {
+      "name": "CRW",
+      "input_csv": "/Users/hatanaka/rnaup-official-pf1p00/data/crw_from_bpseq_acgu.csv",
+      "timeout_sec_per_seq": 3600
+    },
+    {
+      "name": "bpRNA-new",
+      "input_csv": "/Users/hatanaka/rnaup-official-pf1p00/data/bprna_new_test_acgu.csv",
+      "timeout_sec_per_seq": 1800
+    }
+  ]
+}

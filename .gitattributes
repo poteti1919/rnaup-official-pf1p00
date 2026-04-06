@@ -1,0 +1,2 @@
+results/rnaup_official_pf1p00/CRW/rnaup_parsed_wide/CRW/rnaup_window_features.csv.gz filter=lfs diff=lfs merge=lfs -text
+results/rnaup_official_pf1p00/bpRNA-new/rnaup_parsed_wide/bpRNA-new/rnaup_window_features.csv.gz filter=lfs diff=lfs merge=lfs -text

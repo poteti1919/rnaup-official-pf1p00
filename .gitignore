@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Large raw RNAup outputs
+results/rnaup_official_pf1p00/CRW/rnaup_raw/
+results/rnaup_official_pf1p00/bpRNA-new/rnaup_raw/
+
+# Optional local scratch or temporary files
+*.tmp
+*.log.tmp

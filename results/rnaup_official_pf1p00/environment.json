@@ -1,0 +1,10 @@
+{
+  "python_version": "3.12.9",
+  "platform": "macOS-26.3.1-arm64-arm-64bit",
+  "RNAUP_BIN": "/opt/anaconda3/envs/rna6nt/bin/RNAup",
+  "RNAup_version": "RNAup 2.7.2",
+  "project_root": "/Users/hatanaka/rnaup-official-pf1p00",
+  "data_dir": "/Users/hatanaka/rnaup-official-pf1p00/data",
+  "results_dir": "/Users/hatanaka/rnaup-official-pf1p00/results",
+  "official_dir": "/Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00"
+}

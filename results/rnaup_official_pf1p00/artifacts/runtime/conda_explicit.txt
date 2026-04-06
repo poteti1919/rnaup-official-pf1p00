@@ -1,0 +1,3 @@
+
+EnvironmentLocationNotFound: Not a conda environment: /Users/hatanaka/opt/anaconda3/envs/rna6nt
+

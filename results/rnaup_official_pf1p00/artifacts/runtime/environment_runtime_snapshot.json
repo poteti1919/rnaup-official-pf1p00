@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-04-04T13:01:29.789276+00:00",
+  "python_version": "3.12.9",
+  "platform": "macOS-26.3.1-arm64-arm-64bit",
+  "machine": "arm64",
+  "processor": "arm",
+  "python_executable": "/opt/anaconda3/envs/rna6nt/bin/python",
+  "cwd": "/Users/hatanaka/rnaup-official-pf1p00/notebooks",
+  "project_root": "/Users/hatanaka/rnaup-official-pf1p00",
+  "data_dir": "/Users/hatanaka/rnaup-official-pf1p00/data",
+  "results_dir": "/Users/hatanaka/rnaup-official-pf1p00/results",
+  "official_dir": "/Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00",
+  "rna_up_bin": "/opt/anaconda3/envs/rna6nt/bin/RNAup"
+}
