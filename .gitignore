@@ -11,6 +11,12 @@ __pycache__/
 # Large raw RNAup outputs
 results/rnaup_official_pf1p00/CRW/rnaup_raw/
 results/rnaup_official_pf1p00/bpRNA-new/rnaup_raw/
+data/
+notebooks/RNAup_official_pf1p00_production.ipynb
+results/rnaup_official_pf1p00/CRW/input_snapshot/
+results/rnaup_official_pf1p00/bpRNA-new/input_snapshot/
+results/rnaup_official_pf1p00/CRW/rnaup_parsed_long/
+results/rnaup_official_pf1p00/bpRNA-new/rnaup_parsed_long/
 
 # Optional local scratch or temporary files
 *.tmp

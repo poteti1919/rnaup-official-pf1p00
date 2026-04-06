@@ -1,0 +1,19 @@
+{
+  "dataset_name": "CRW",
+  "input_csv": "/Users/hatanaka/rnaup-official-pf1p00/data/crw_from_bpseq_acgu.csv",
+  "official_command": "/opt/anaconda3/envs/rna6nt/bin/RNAup -u 1-20 -c SHIME -T 37.0 --salt 1.021 -d2 --pfScale 1.0 --log-file=RNAup.log --log-time",
+  "RNAup_version": "RNAup 2.7.2",
+  "pfScale_used": 1.0,
+  "n_sequences_input": 113,
+  "n_manifest_rows": 113,
+  "n_success": 113,
+  "n_failure": 0,
+  "n_warning": 0,
+  "n_missing_output": 0,
+  "n_long_rows": 31508500,
+  "n_wide_rows": 314520,
+  "raw_root": "/Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/CRW/rnaup_raw/CRW",
+  "manifest_path": "/Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/CRW/meta/rnaup_run_manifest.csv",
+  "long_path": "/Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/CRW/rnaup_parsed_long/CRW/rnaup_long.csv.gz",
+  "wide_path": "/Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/CRW/rnaup_parsed_wide/CRW/rnaup_window_features.csv.gz"
+}

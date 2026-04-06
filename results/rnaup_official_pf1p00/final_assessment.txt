@@ -1,0 +1,50 @@
+Official RNAup final assessment
+================================
+
+Official output root: /Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00
+RNAup version: RNAup 2.7.2
+Official command: /opt/anaconda3/envs/rna6nt/bin/RNAup -u 1-20 -c SHIME -T 37.0 --salt 1.021 -d2 --pfScale 1.0 --log-file=RNAup.log --log-time
+
+Dataset-level acceptance:
+- CRW clean run: True
+- bpRNA-new clean run: True
+
+CRW status summary:
+  - dataset_name: CRW
+  - input_csv: /Users/hatanaka/rnaup-official-pf1p00/data/crw_from_bpseq_acgu.csv
+  - official_command: /opt/anaconda3/envs/rna6nt/bin/RNAup -u 1-20 -c SHIME -T 37.0 --salt 1.021 -d2 --pfScale 1.0 --log-file=RNAup.log --log-time
+  - RNAup_version: RNAup 2.7.2
+  - pfScale_used: 1.0
+  - n_sequences_input: 113
+  - n_manifest_rows: 113
+  - n_success: 113
+  - n_failure: 0
+  - n_warning: 0
+  - n_missing_output: 0
+  - n_long_rows: 31508500
+  - n_wide_rows: 314520
+  - raw_root: /Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/CRW/rnaup_raw/CRW
+  - manifest_path: /Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/CRW/meta/rnaup_run_manifest.csv
+  - long_path: /Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/CRW/rnaup_parsed_long/CRW/rnaup_long.csv.gz
+  - wide_path: /Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/CRW/rnaup_parsed_wide/CRW/rnaup_window_features.csv.gz
+
+bpRNA-new status summary:
+  - dataset_name: bpRNA-new
+  - input_csv: /Users/hatanaka/rnaup-official-pf1p00/data/bprna_new_test_acgu.csv
+  - official_command: /opt/anaconda3/envs/rna6nt/bin/RNAup -u 1-20 -c SHIME -T 37.0 --salt 1.021 -d2 --pfScale 1.0 --log-file=RNAup.log --log-time
+  - RNAup_version: RNAup 2.7.2
+  - pfScale_used: 1.0
+  - n_sequences_input: 5388
+  - n_manifest_rows: 5388
+  - n_success: 5388
+  - n_failure: 0
+  - n_warning: 0
+  - n_missing_output: 0
+  - n_long_rows: 59225400
+  - n_wide_rows: 565314
+  - raw_root: /Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/bpRNA-new/rnaup_raw/bpRNA-new
+  - manifest_path: /Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/bpRNA-new/meta/rnaup_run_manifest.csv
+  - long_path: /Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/bpRNA-new/rnaup_parsed_long/bpRNA-new/rnaup_long.csv.gz
+  - wide_path: /Users/hatanaka/rnaup-official-pf1p00/results/rnaup_official_pf1p00/bpRNA-new/rnaup_parsed_wide/bpRNA-new/rnaup_window_features.csv.gz
+
+Official RNAup adoption under pfScale=1.00: True
