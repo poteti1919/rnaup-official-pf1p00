@@ -1,4 +1,4 @@
-# RNAup Official Production Run with `pfScale=1.00`
+# RNAup Production Run with `pfScale=1.00`
 
 This repository contains the official production workflow and output organization for generating RNAup-based accessibility features for the 6-nt RNA selector project.
 
